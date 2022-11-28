@@ -1,0 +1,17 @@
+I:\C#\测绘程序设计\2_矩阵卷积计算\2_矩阵卷积计算\bin\Debug\net6.0-windows\2_矩阵卷积计算.exe
+I:\C#\测绘程序设计\2_矩阵卷积计算\2_矩阵卷积计算\bin\Debug\net6.0-windows\2_矩阵卷积计算.deps.json
+I:\C#\测绘程序设计\2_矩阵卷积计算\2_矩阵卷积计算\bin\Debug\net6.0-windows\2_矩阵卷积计算.runtimeconfig.json
+I:\C#\测绘程序设计\2_矩阵卷积计算\2_矩阵卷积计算\bin\Debug\net6.0-windows\2_矩阵卷积计算.dll
+I:\C#\测绘程序设计\2_矩阵卷积计算\2_矩阵卷积计算\bin\Debug\net6.0-windows\2_矩阵卷积计算.pdb
+I:\C#\测绘程序设计\2_矩阵卷积计算\2_矩阵卷积计算\obj\Debug\net6.0-windows\2_矩阵卷积计算.csproj.AssemblyReference.cache
+I:\C#\测绘程序设计\2_矩阵卷积计算\2_矩阵卷积计算\obj\Debug\net6.0-windows\_2_矩阵卷积计算.Form1.resources
+I:\C#\测绘程序设计\2_矩阵卷积计算\2_矩阵卷积计算\obj\Debug\net6.0-windows\2_矩阵卷积计算.csproj.GenerateResource.cache
+I:\C#\测绘程序设计\2_矩阵卷积计算\2_矩阵卷积计算\obj\Debug\net6.0-windows\2_矩阵卷积计算.GeneratedMSBuildEditorConfig.editorconfig
+I:\C#\测绘程序设计\2_矩阵卷积计算\2_矩阵卷积计算\obj\Debug\net6.0-windows\2_矩阵卷积计算.AssemblyInfoInputs.cache
+I:\C#\测绘程序设计\2_矩阵卷积计算\2_矩阵卷积计算\obj\Debug\net6.0-windows\2_矩阵卷积计算.AssemblyInfo.cs
+I:\C#\测绘程序设计\2_矩阵卷积计算\2_矩阵卷积计算\obj\Debug\net6.0-windows\2_矩阵卷积计算.csproj.CoreCompileInputs.cache
+I:\C#\测绘程序设计\2_矩阵卷积计算\2_矩阵卷积计算\obj\Debug\net6.0-windows\2_矩阵卷积计算.dll
+I:\C#\测绘程序设计\2_矩阵卷积计算\2_矩阵卷积计算\obj\Debug\net6.0-windows\refint\2_矩阵卷积计算.dll
+I:\C#\测绘程序设计\2_矩阵卷积计算\2_矩阵卷积计算\obj\Debug\net6.0-windows\2_矩阵卷积计算.pdb
+I:\C#\测绘程序设计\2_矩阵卷积计算\2_矩阵卷积计算\obj\Debug\net6.0-windows\2_矩阵卷积计算.genruntimeconfig.cache
+I:\C#\测绘程序设计\2_矩阵卷积计算\2_矩阵卷积计算\obj\Debug\net6.0-windows\ref\2_矩阵卷积计算.dll
