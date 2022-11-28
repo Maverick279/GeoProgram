@@ -1,0 +1,17 @@
+I:\C#\测绘程序设计\3_利用线性回归模型进行卫星轨道的预报\3_利用线性回归模型进行卫星轨道的预报\bin\Debug\net6.0-windows\3_利用线性回归模型进行卫星轨道的预报.exe
+I:\C#\测绘程序设计\3_利用线性回归模型进行卫星轨道的预报\3_利用线性回归模型进行卫星轨道的预报\bin\Debug\net6.0-windows\3_利用线性回归模型进行卫星轨道的预报.deps.json
+I:\C#\测绘程序设计\3_利用线性回归模型进行卫星轨道的预报\3_利用线性回归模型进行卫星轨道的预报\bin\Debug\net6.0-windows\3_利用线性回归模型进行卫星轨道的预报.runtimeconfig.json
+I:\C#\测绘程序设计\3_利用线性回归模型进行卫星轨道的预报\3_利用线性回归模型进行卫星轨道的预报\bin\Debug\net6.0-windows\3_利用线性回归模型进行卫星轨道的预报.dll
+I:\C#\测绘程序设计\3_利用线性回归模型进行卫星轨道的预报\3_利用线性回归模型进行卫星轨道的预报\bin\Debug\net6.0-windows\3_利用线性回归模型进行卫星轨道的预报.pdb
+I:\C#\测绘程序设计\3_利用线性回归模型进行卫星轨道的预报\3_利用线性回归模型进行卫星轨道的预报\obj\Debug\net6.0-windows\3_利用线性回归模型进行卫星轨道的预报.csproj.AssemblyReference.cache
+I:\C#\测绘程序设计\3_利用线性回归模型进行卫星轨道的预报\3_利用线性回归模型进行卫星轨道的预报\obj\Debug\net6.0-windows\_3_利用线性回归模型进行卫星轨道的预报.Form1.resources
+I:\C#\测绘程序设计\3_利用线性回归模型进行卫星轨道的预报\3_利用线性回归模型进行卫星轨道的预报\obj\Debug\net6.0-windows\3_利用线性回归模型进行卫星轨道的预报.csproj.GenerateResource.cache
+I:\C#\测绘程序设计\3_利用线性回归模型进行卫星轨道的预报\3_利用线性回归模型进行卫星轨道的预报\obj\Debug\net6.0-windows\3_利用线性回归模型进行卫星轨道的预报.GeneratedMSBuildEditorConfig.editorconfig
+I:\C#\测绘程序设计\3_利用线性回归模型进行卫星轨道的预报\3_利用线性回归模型进行卫星轨道的预报\obj\Debug\net6.0-windows\3_利用线性回归模型进行卫星轨道的预报.AssemblyInfoInputs.cache
+I:\C#\测绘程序设计\3_利用线性回归模型进行卫星轨道的预报\3_利用线性回归模型进行卫星轨道的预报\obj\Debug\net6.0-windows\3_利用线性回归模型进行卫星轨道的预报.AssemblyInfo.cs
+I:\C#\测绘程序设计\3_利用线性回归模型进行卫星轨道的预报\3_利用线性回归模型进行卫星轨道的预报\obj\Debug\net6.0-windows\3_利用线性回归模型进行卫星轨道的预报.csproj.CoreCompileInputs.cache
+I:\C#\测绘程序设计\3_利用线性回归模型进行卫星轨道的预报\3_利用线性回归模型进行卫星轨道的预报\obj\Debug\net6.0-windows\3_利用线性回归模型进行卫星轨道的预报.dll
+I:\C#\测绘程序设计\3_利用线性回归模型进行卫星轨道的预报\3_利用线性回归模型进行卫星轨道的预报\obj\Debug\net6.0-windows\refint\3_利用线性回归模型进行卫星轨道的预报.dll
+I:\C#\测绘程序设计\3_利用线性回归模型进行卫星轨道的预报\3_利用线性回归模型进行卫星轨道的预报\obj\Debug\net6.0-windows\3_利用线性回归模型进行卫星轨道的预报.pdb
+I:\C#\测绘程序设计\3_利用线性回归模型进行卫星轨道的预报\3_利用线性回归模型进行卫星轨道的预报\obj\Debug\net6.0-windows\3_利用线性回归模型进行卫星轨道的预报.genruntimeconfig.cache
+I:\C#\测绘程序设计\3_利用线性回归模型进行卫星轨道的预报\3_利用线性回归模型进行卫星轨道的预报\obj\Debug\net6.0-windows\ref\3_利用线性回归模型进行卫星轨道的预报.dll

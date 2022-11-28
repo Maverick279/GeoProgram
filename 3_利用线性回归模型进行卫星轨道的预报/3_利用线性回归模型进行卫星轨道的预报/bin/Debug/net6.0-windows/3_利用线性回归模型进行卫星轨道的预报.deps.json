@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "3_利用线性回归模型进行卫星轨道的预报/1.0.0": {
+        "runtime": {
+          "3_利用线性回归模型进行卫星轨道的预报.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "3_利用线性回归模型进行卫星轨道的预报/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
