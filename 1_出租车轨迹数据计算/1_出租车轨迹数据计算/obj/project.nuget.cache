@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vml5WNWVnMUcFBUZqtvv7q9pwX6tT5oSHrALghJk3tHjGK52tkGE91EvkX+Ve1qduLMMt/qGYa28BkZxgH3vfw==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\测绘程序设计\\1_出租车轨迹数据计算\\1_出租车轨迹数据计算\\1_出租车轨迹数据计算.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\86135\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.11\\microsoft.netcore.app.host.win-x64.6.0.11.nupkg.sha512",
+    "C:\\Users\\86135\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.11\\microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\86135\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.11\\microsoft.windowsdesktop.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\86135\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.11\\microsoft.netcore.app.ref.6.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

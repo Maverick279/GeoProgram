@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_出租车轨迹数据计算", "1_出租车轨迹数据计算\1_出租车轨迹数据计算.csproj", "{63F5FC69-D81A-4FB9-9967-FC2438425FBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63F5FC69-D81A-4FB9-9967-FC2438425FBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63F5FC69-D81A-4FB9-9967-FC2438425FBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63F5FC69-D81A-4FB9-9967-FC2438425FBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63F5FC69-D81A-4FB9-9967-FC2438425FBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {747EA145-1EBC-4B98-A3D3-1784B03A904B}
+	EndGlobalSection
+EndGlobal
