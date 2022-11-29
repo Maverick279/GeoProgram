@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "/3BdnEMzyRqxGjmrv5XaOP31uCtbE4WAB8VCc+wxRo79xjchR7XEbr9jsr7QIrTLEoNr0JlVOfeLYAVWWup3uw==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\测绘程序设计\\5_时间系统转换\\5_时间系统转换\\5_时间系统转换.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\86135\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.11\\microsoft.netcore.app.host.win-x64.6.0.11.nupkg.sha512",
+    "C:\\Users\\86135\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.11\\microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\86135\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.11\\microsoft.windowsdesktop.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\86135\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.11\\microsoft.netcore.app.ref.6.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
